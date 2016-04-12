@@ -1,3 +1,8 @@
+# Debug files
+Win/TestResults/
+Win/x64/
+Win/Skeleton.sdf
+
 # Compiled Object files
 *.slo
 *.lo
