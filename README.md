@@ -7,15 +7,15 @@ Download the latest release,then extract *.aex to the plugin folder of After eff
 Restart After effects
 
 # UI
-![image1](https://raw.githubusercontent.com/Smallpath/MaskKeying/master/Readme/1.png)
+[image1](https://raw.githubusercontent.com/Smallpath/MaskKeying/master/Readme/1.png)
 
 # Demo
 
 Before:
-![image2](https://raw.githubusercontent.com/Smallpath/MaskKeying/master/Readme/2.jpg)
+[image2](https://raw.githubusercontent.com/Smallpath/MaskKeying/master/Readme/2.jpg)
 
 After:
-![image3](https://raw.githubusercontent.com/Smallpath/MaskKeying/master/Readme/3.jpg)
+[image3](https://raw.githubusercontent.com/Smallpath/MaskKeying/master/Readme/3.jpg)
 
 # How to use
 1. Apply effect to the layer.
