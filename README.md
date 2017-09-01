@@ -11,10 +11,10 @@ Restart After effects
 
 # Demo
 
-Before:
+Before:  
 ![image2](https://raw.githubusercontent.com/Smallpath/MaskKeying/master/Readme/2.jpg)
 
-After:
+After:  
 ![image3](https://raw.githubusercontent.com/Smallpath/MaskKeying/master/Readme/3.jpg)
 
 # How to use
@@ -23,7 +23,7 @@ After:
 3. Select the mask in the effect panel.Then the keying is already done.
 
 # Tip
-You can reset the mask by clicking 'reset mask currently'.The mask will be set to a rectangle,then you can drag the every vertice to keying
+You can reset the mask by clicking 'reset mask currently'.The mask will be set to a rectangle,then you can drag any vertice to keying
 
 # License
 Apache License v2.0
